@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Machine Intelligence Laboratory (MIL)](https://mi.eng.cam.ac.uk/Main/), University of Cambridge, supervised by [Prof. Bill Byrne](https://mi.eng.cam.ac.uk/~wjb31/). I am a member of [Peterhouse](https://www.pet.cam.ac.uk/).
+I am a PhD student at the [Machine Intelligence Laboratory (MIL)](https://mi.eng.cam.ac.uk/Main/), University of Cambridge, supervised by [Prof. Bill Byrne](https://sites.google.com/view/bill-byrne/home/). I am a member of [Peterhouse](https://www.pet.cam.ac.uk/).
 
 My research focuses on **multimodal retrieval**, **hateful meme detection**, and **vision-language models**. My work spans retrieval-augmented generation for visual question answering, content moderation with multimodal reasoning, and long-term personalized memory systems. I have published at top venues including NeurIPS, ACL, EMNLP, ICLR, and NAACL.
 
