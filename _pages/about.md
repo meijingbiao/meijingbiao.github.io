@@ -45,6 +45,7 @@ I also write at my blog: [jingbiao.me](https://jingbiao.me/).
 
 ## News
 
+- **[Mar 2026]** Paper accepted at **ACL 2026**: *Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models*.
 - **[Mar 2026]** New preprints: *According to Me: Long-Term Personalized Referential Memory QA* and *Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization*.
 - **[Jan 2026]** Paper accepted at **ICLR 2026**: *ExPO-HM: Learning to Explain-then-Detect for Hateful Meme Detection*.
 - **[Sep 2025]** Paper accepted at **EMNLP 2025 Main** as **Oral**: *Robust Adaptation of Large Multimodal Models for Retrieval Augmented Hateful Meme Detection*.
